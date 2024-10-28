@@ -1,5 +1,6 @@
 reha
 soome
-kaal
+vish
 shiv
-maa
+kaal
+hari
